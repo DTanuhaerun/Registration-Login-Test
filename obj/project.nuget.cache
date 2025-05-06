@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DUeG9s5822o=",
+  "dgSpecHash": "yA/eK4UYhjk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\RegistrationLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LEGION\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

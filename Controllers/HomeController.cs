@@ -3,9 +3,9 @@ using System.Diagnostics;
 using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using WebApplication1.Models;
+using RegistrationLogin.Models;
 
-namespace WebApplication1.Controllers
+namespace RegistrationLogin.Controllers
 {
     public class HomeController : Controller
     {

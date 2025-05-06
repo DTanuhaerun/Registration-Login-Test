@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "Hash": "uVIc8KX6rGHwccz17q85gbOKkPSjEL8fMPXZ4PBXBgE=",
-  "Source": "WebApplication1",
-  "BasePath": "_content/WebApplication1",
+  "Hash": "JH1zAsHdZIvCpAX8XdtEv19M7M5GTq8MFW/ViKXy/ZQ=",
+  "Source": "RegistrationLogin",
+  "BasePath": "_content/RegistrationLogin",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "WebApplication1\\wwwroot",
-      "Source": "WebApplication1",
+      "Name": "RegistrationLogin\\wwwroot",
+      "Source": "RegistrationLogin",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
-      "SourceId": "WebApplication1",
+      "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RegistrationLogin.styles.css",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "WebApplication1#[.{fingerprint}]?.styles.css",
+      "BasePath": "_content/RegistrationLogin",
+      "RelativePath": "RegistrationLogin#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,19 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "yj6fvmmoe8",
-      "Integrity": "Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk=",
+      "Fingerprint": "pay87x1pa3",
+      "Integrity": "X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css"
+      "OriginalItemSpec": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RegistrationLogin.styles.css"
     },
     {
-      "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
-      "SourceId": "WebApplication1",
+      "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RegistrationLogin.bundle.scp.css",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "WebApplication1#[.{fingerprint}]!.bundle.scp.css",
+      "BasePath": "_content/RegistrationLogin",
+      "RelativePath": "RegistrationLogin#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,18 +52,18 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "yj6fvmmoe8",
-      "Integrity": "Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk=",
+      "Fingerprint": "pay87x1pa3",
+      "Integrity": "X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RegistrationLogin.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -81,10 +81,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -102,10 +102,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -123,10 +123,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -144,10 +144,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -165,10 +165,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -186,10 +186,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -207,10 +207,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -228,10 +228,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -249,10 +249,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -270,10 +270,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -291,10 +291,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -312,10 +312,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -333,10 +333,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -354,10 +354,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -375,10 +375,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -396,10 +396,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -417,10 +417,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -438,10 +438,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -459,10 +459,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -480,10 +480,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -501,10 +501,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -522,10 +522,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -543,10 +543,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -564,10 +564,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -585,10 +585,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -606,10 +606,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -627,10 +627,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -648,10 +648,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -669,10 +669,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -690,10 +690,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -711,10 +711,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -732,10 +732,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -753,10 +753,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -774,10 +774,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -795,10 +795,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -816,10 +816,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -837,10 +837,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -858,10 +858,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -879,10 +879,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -900,10 +900,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -921,10 +921,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -942,10 +942,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -963,10 +963,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -984,10 +984,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1005,10 +1005,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1026,10 +1026,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1047,10 +1047,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1068,10 +1068,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1089,10 +1089,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1110,10 +1110,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1131,10 +1131,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1152,10 +1152,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1173,10 +1173,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1194,10 +1194,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1215,10 +1215,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1236,10 +1236,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1257,10 +1257,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1278,10 +1278,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1299,10 +1299,10 @@
     },
     {
       "Identity": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "WebApplication1",
+      "SourceId": "RegistrationLogin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
+      "BasePath": "_content/RegistrationLogin",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -6241,8 +6241,8 @@
       ]
     },
     {
-      "Route": "WebApplication1.bundle.scp.css",
-      "AssetFile": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "Route": "RegistrationLogin.bundle.scp.css",
+      "AssetFile": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RegistrationLogin.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6251,7 +6251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "1135"
         },
         {
           "Name": "Content-Type",
@@ -6259,11 +6259,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk=\""
+          "Value": "\"X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 05:54:42 GMT"
+          "Value": "Tue, 06 May 2025 08:37:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6273,13 +6273,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk="
+          "Value": "sha256-X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI="
         }
       ]
     },
     {
-      "Route": "WebApplication1.styles.css",
-      "AssetFile": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
+      "Route": "RegistrationLogin.pay87x1pa3.bundle.scp.css",
+      "AssetFile": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RegistrationLogin.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6288,7 +6288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "1135"
         },
         {
           "Name": "Content-Type",
@@ -6296,11 +6296,101 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk=\""
+          "Value": "\"X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 05:54:42 GMT"
+          "Value": "Tue, 06 May 2025 08:37:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pay87x1pa3"
+        },
+        {
+          "Name": "label",
+          "Value": "RegistrationLogin.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI="
+        }
+      ]
+    },
+    {
+      "Route": "RegistrationLogin.pay87x1pa3.styles.css",
+      "AssetFile": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RegistrationLogin.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 08:37:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pay87x1pa3"
+        },
+        {
+          "Name": "label",
+          "Value": "RegistrationLogin.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI="
+        }
+      ]
+    },
+    {
+      "Route": "RegistrationLogin.styles.css",
+      "AssetFile": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RegistrationLogin.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 08:37:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6310,97 +6400,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk="
-        }
-      ]
-    },
-    {
-      "Route": "WebApplication1.yj6fvmmoe8.bundle.scp.css",
-      "AssetFile": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 05:54:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yj6fvmmoe8"
-        },
-        {
-          "Name": "label",
-          "Value": "WebApplication1.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk="
-        }
-      ]
-    },
-    {
-      "Route": "WebApplication1.yj6fvmmoe8.styles.css",
-      "AssetFile": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 05:54:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yj6fvmmoe8"
-        },
-        {
-          "Name": "label",
-          "Value": "WebApplication1.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ejph5OspmnzpK2cukdzRSThxw067hcPq5OuD1ldyKsk="
+          "Value": "sha256-X8Wt6dkmf1PiSqMQ0onpgjSJQnbKjldh+kK7wi4FOHI="
         }
       ]
     }

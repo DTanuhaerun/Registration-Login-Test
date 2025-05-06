@@ -61,9 +61,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\RegistrationLogin.csproj",
+      "projectName": "RegistrationLogin",
+      "projectPath": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\RegistrationLogin.csproj",
       "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\LEGION\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
