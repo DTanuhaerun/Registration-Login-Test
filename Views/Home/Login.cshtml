@@ -1,0 +1,25 @@
+﻿@model WebApplication1.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+<h1>@ViewData["Title"]</h1>
+@using (Html.BeginForm("LoginAttempt", "Home", FormMethod.Post))
+{
+    <form-group>
+        @Html.Label("Email")
+        @Html.TextBoxFor(m => m.Email)
+    </form-group>
+    <br />
+    <form-group>
+        @Html.Label("Password")
+        @Html.TextBoxFor(m => m.Password)
+    </form-group>
+    <br />
+
+    <input type="submit" id="SaveButton" value="Login" />
+}
+<div>
+    @Html.ActionLink("Back", "Index", "Home")
+</div>
+

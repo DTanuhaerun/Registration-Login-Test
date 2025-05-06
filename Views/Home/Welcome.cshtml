@@ -1,0 +1,35 @@
+﻿@model WebApplication1.Models.AgentViewModel
+
+@{
+    ViewData["Title"] = "Welcome";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form-group>
+        @Html.Label("NIK")
+        @Html.DisplayFor(m => m.NIK)
+    </form-group>
+    <br />
+    <form-group>
+        @Html.Label("Nama")
+        @Html.DisplayFor(m => m.Nama)
+    </form-group>
+    <br />
+    <form-group>
+        @Html.Label("Password")
+        @Html.DisplayFor(m => m.Password)
+    </form-group>
+    <br />
+    <form-group>
+        @Html.Label("Tanggal Lahir")
+        @Html.DisplayFor(m => m.DoB)
+    </form-group>
+    <br />
+    <form-group>
+        @Html.Label("Email")
+        @Html.DisplayFor(m => m.Email)
+    </form-group>
+    <br />
+
+</div>

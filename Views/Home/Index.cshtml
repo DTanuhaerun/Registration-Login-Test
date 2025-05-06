@@ -1,0 +1,66 @@
+﻿@model WebApplication1.Models.AgentViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Register</h1>
+    @using (Html.BeginForm("Register", "Home", FormMethod.Post))
+    {
+        <form-group>
+            @Html.Label("NIK")
+            @Html.TextBoxFor(m => m.NIK)
+        </form-group>
+        <br />
+        <form-group>
+            @Html.Label("Nama")
+            @Html.TextBoxFor(m => m.Nama)
+        </form-group>
+        <br />
+        <form-group>
+            @Html.Label("Password")
+            @Html.TextBoxFor(m => m.Password)
+        </form-group>
+        <br />
+        <form-group>
+            @Html.Label("Tanggal Lahir")
+            @Html.TextBoxFor(m => m.DoB)
+        </form-group>
+        <br />
+        <form-group>
+            @Html.Label("Email")
+            @Html.TextBoxFor(m => m.Email)
+        </form-group>
+        <br />
+
+        <input type="submit" id="SaveButton" value="Save" />
+    }
+    <div>
+        @Html.ActionLink("Login","Login", "Home")
+    </div>
+    
+</div>
+
+<script type="text/javascript" >
+    
+     $("#SaveButton").submit(function(e) {
+         alert(e);
+         e.preventDefault(); // avoid to execute the actual submit of the form.
+
+         var form = $(this);
+         var actionUrl = form.attr('action');
+
+         $.ajax({
+             type: "POST",
+             url: actionUrl,
+             data: form.serialize(), // serializes the form's elements.
+             success: function(data)
+             {
+                 console.log(data);
+             }
+         });
+
+     });
+</script>
